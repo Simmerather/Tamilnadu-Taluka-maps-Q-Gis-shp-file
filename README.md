@@ -1,1 +1,1 @@
-# Tamilnadu-Taluka-maps-Q-Gis-shp-file
+# Tamilnadu-Taluka-maps-Q-Gis-qgs file
